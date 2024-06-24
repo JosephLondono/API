@@ -31,6 +31,16 @@ const documentacion = [
         "metodo": "GET",
         "descripcion": "Devuelve un país en particular."
     },
+    {
+        "ruta": "/users",
+        "metodo": "GET",
+        "descripcion": "Genera un usuario random."
+    },
+    {
+        "ruta": "/users?results=10",
+        "metodo": "GET",
+        "descripcion": "Devuelve x usuarios random, donde x es el número especificado en el parámetro 'results'."
+    },
 ];
 
 app.listen(PORT, () => {
