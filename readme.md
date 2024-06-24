@@ -67,7 +67,3 @@ Las contribuciones son bienvenidas. Si tienes alguna idea o mejora, por favor ab
 
 ## Licencia
 Este proyecto está licenciado bajo la MIT License.
-    
-
-## README.md    
-Este archivo `README.md` proporciona una descripción general de tu proyecto, enumera las rutas disponibles con sus descripciones, da crédito a las APIs utilizadas, e incluye instrucciones de instalación y uso.
