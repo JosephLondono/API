@@ -10,8 +10,6 @@ const contriesData = fetch('https://countryinfoapi.com/api/countries')
             name: country.name,
             capital: country.capital,
             region: country.region,
-            population: country.population,
-            area: country.area,
             flag: country.flag,
             currency: country.currencies,
             languages: country.languages
